@@ -11,6 +11,7 @@ console.log("colore inserito");
 let combinazioneUtente = nomeUtente + cognomeUtente + coloreUtente + "21";
 
 document.writeln(combinazioneUtente);
+console.log("combinazione eseguita")
 
 
 
